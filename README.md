@@ -4,7 +4,7 @@ Add-on cutting meshes into smaller bricks of customizable size. This add-on was 
 
 
 
-##Features :
+## Features :
 
 ➡️ Procedural boolean designed to avoid crashes.
 
@@ -16,27 +16,27 @@ Add-on cutting meshes into smaller bricks of customizable size. This add-on was 
 
 
 
-##How to use :
+## How to use :
 
-###➡️ Select object to convert into bricks
+### ➡️ Select object to convert into bricks
 
-###➡️ Boolean settings
+### ➡️ Boolean settings
 
 Customize boolean setting used by Blender to calculate brick intersection with the 3D model.
 
-###➡️ Generate or define domain :
+### ➡️ Generate or define domain :
 
 Domain is a volume used to define the area covered by bricks and intersect with the original mesh creating a duplicate. You can choose using a custom existing object as a domain instead if wanted.
 
-###➡️ Apply domain :
+### ➡️ Apply domain :
 
 This function intersect the domain with the base mesh.
 
-###➡️ Bricks settings :
+### ➡️ Bricks settings :
 
 Used to set bricks size and allowing to quickly generate, delete and export them.
 
-###➡️ Process :
+### ➡️ Process :
 
 Automatically intersect each generated brick with the domain object. Show time left and total generated bricks. Empty bricks will be deleted at the end of the process.
 
@@ -51,7 +51,7 @@ It is my first add-on, feedback are appreciated.
 
 
 
-##Features incoming :
+## Features incoming :
 
 - Use original mesh instead of a domain for brick génération if no domain are defined.
 - Allow choosing if empty bricks should be deleted at the end of the process.
