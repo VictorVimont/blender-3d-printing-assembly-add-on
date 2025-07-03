@@ -41,13 +41,11 @@ Used to set bricks size and allowing to quickly generate, delete and export them
 Automatically intersect each generated brick with the domain object. Show time left and total generated bricks. Empty bricks will be deleted at the end of the process.
 
 
-3D Printing assembly add-on is still in development. 
+3D Printing assembly add-on is still in development. It is my first add-on, feedback are appreciated.
 
-Code is also available on Gumroad : https://grynger.gumroad.com/l/feogv
+Add-on is also available on Gumroad : https://grynger.gumroad.com/l/feogv
 
 I'm an artist, you can follow my work on social media @victor.vimont and on my website : victorvimont.fr
-
-It is my first add-on, feedback are appreciated.
 
 
 
