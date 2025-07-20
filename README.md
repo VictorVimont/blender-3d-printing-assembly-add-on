@@ -51,9 +51,13 @@ I'm an artist, you can follow my work on social media @victor.vimont and on my w
 
 ## Features incoming :
 
-- Use original mesh instead of a domain for brick génération if no domain are defined.
-- Allow choosing if empty bricks should be deleted at the end of the process.
-- Brick pattern section under brick panels.
-- Pause and resume process
-- Brick spacing
-- French translation
+- Use original mesh instead of a domain for brick generation if no domain are defined.
+- Rotate brick relative to mesh cursor with alpha transparency preview before processing.
+- Allow choosing if empty bricks and if full bricks should be deleted at the end of the process.
+- Pause and resume process.
+- Brick spacing.
+- French translation.
+
+Future :
+
+- Brickwork section.
